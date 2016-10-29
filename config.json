@@ -1,0 +1,20 @@
+{
+    "periodLength": "3 year",
+
+    "endPeriodDate":   "now",
+
+    "currencyList": [
+
+        "R01235",
+        "R01239"
+    ],
+
+    "mysqlConfig": {
+
+        "host":      "localhost",
+        "db":        "tochka_cbr",
+        "login":     "root",
+        "password":  "root",
+        "tableName": "currency_dynamic"
+    }
+}
